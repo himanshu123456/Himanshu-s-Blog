@@ -1,0 +1,45 @@
+body {
+	background-color:#D6EBFF;
+}
+
+div#head {
+		background-color:orange;
+		border-collapse: collapse;
+padding: 30px;
+border: 
+
+}
+
+h1.title {
+font-family:Lobster;
+color: white;
+margin-top: 0px;
+font-size: 50px;
+padding: :30px;
+
+}
+
+
+h3 {
+	color: orange;
+   padding-left:10px;
+   font-family: Lobster;
+
+}
+h3 a:link{
+	    text-decoration: none;
+}
+h3 a:hover{
+	    text-decoration: none;
+	    color:#290052;
+}
+
+p {
+	color:#4C4C33;
+	padding-left: 10px;
+}
+
+p#date {
+	color:#1F5C99;
+	padding-left: 20px;
+}
